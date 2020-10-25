@@ -1,0 +1,27 @@
+v0.23
+2005-12-06 - FN -Minor fix : Changed include file in admin/index.php
+2005-12-04 - FN - Added admin/index.php (redirects to modules preferences)
+                - Corrected minor error in search.inc.php when user didn't register xmap location. No output is now returned.
+v0.221
+2005-12-04 - FN - Internationalization (english translation)
+v0.22
+2005-12-02 - FN - Added Latest Registered Users Info (map.php, functions.php)
+2005-12-01 - FN - Added XMap Block
+2005-11-30 - FN - Minor search.inc.php array var correction
+                - Added include xoops_version.php in index.php for version output
+2005-11-21 - FN - Initial Module Package Version
+                - Profile search.inc.php function
+                - google_key_url module config option
+v0.21
+2005-11-15 - FN - Minor BUG - IExplorer error - <script> section moved outside the <table> section
+                - Correction - Add target="_top" to userinfo.php link
+                - Added Xoops Style Sheet css link
+v0.2
+2005-11-14 - FN - Added Small Icons
+                - Added lid and uid filter
+                - Added avatar info window display
+                - Added Local and Users list side info
+2005-11-13 - FN - Added info right section
+                       Added include dir and function.php
+v0.1
+2005-11-07	- FN - Module Start

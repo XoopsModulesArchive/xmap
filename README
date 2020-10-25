@@ -1,0 +1,17 @@
+XMap README file
+
+Module Purpose
+Xoops Module that makes use of Google Maps Public API to graphicaly show the site's members in the world map. Can Zoom In, Zoom Out, Pan, etc...
+
+Installation Procedures:
+.Extract the tarball in the XOOPS_ROOT_PATH
+.Set permissions in modules/xmap acording to your security policy (RX should be enough)
+.In Xoops Admin Section, just install XMap module
+
+Update Procedures:
+.Replace module files extracting the tarball in the XOOPS_ROOT_PATH over your existing XMap version
+.Check file permissions in modules/xmap acording to your security policy (RX should be enough)
+.In Xoops Admin Section, update your XMap module.
+.Check replaced/updated blocks
+
+
